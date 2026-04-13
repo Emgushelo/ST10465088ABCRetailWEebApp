@@ -6,7 +6,7 @@ A comprehensive web application demonstrating Azure Storage Services integration
 
 ## Student Information
 - **Student Number:** ST10465088
-- **Module Code:** CLVV7112
+- **Module Code:** CLDV7112
 - **Project:** Project 1 - Azure Storage Solution
 
 ## Live Application
